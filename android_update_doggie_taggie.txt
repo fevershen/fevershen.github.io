@@ -1,1 +1,1 @@
-XXX&1.11&update the software version&http://fevershen.github.io/android_update_doggie_taggie.apk
+XXX&11&update the software version&http://fevershen.github.io/android_update_doggie_taggie.apk

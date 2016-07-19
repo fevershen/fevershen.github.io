@@ -1,1 +1,0 @@
-XXX&1.1&update the software version&http://fevershen.github.io/android_update_dog.apk
